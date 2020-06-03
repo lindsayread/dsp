@@ -54,6 +54,7 @@ I installed Python 3 because HackerRank Python pre-work is configured for Python
 In the Terminal:
 
 `python3 --version`
+
 Python 3.7.6
 
 
